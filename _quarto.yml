@@ -1,0 +1,52 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Illuminating Wellness: The Science of Red Light Therapy and Retinal Imaging"
+  author: "Viktor Andrásczewski, M.D., PhD"
+  search: true
+  page-footer: "Copyright 2025 Opticare, Inc"
+  site-url: https://opticareai.github.io/peptide-book/
+  downloads: [pdf, epub]
+  date: "4/26/2025"
+  cover-image: _resources/book/Redlight-Kindle_Book_Cover_6x9-Medium.jpeg
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - ch1-window.qmd
+    - ch2-science.qmd
+    - ch3-biomarkers.qmd
+    - ch4-protocols.qmd
+    - ch5-applications.qmd
+    - ch6-technology.qmd
+    - ch7-implementation.qmd
+    - ch8-cases.qmd
+    - ch9-frontier.qmd
+    - ch10-integration.qmd
+    - summary.qmd
+    - references.qmd
+    - appendix.qmd
+
+bibliography: _resources/book/redlight.bib
+nocite: '@*'
+
+
+format:
+  html:
+    theme: minty
+    css: _resources/book/css/normalize.css
+    standalone: true
+    toc: true
+    link-external-newwindow: true
+  pdf:
+    papersize: "Letter"
+    mainfont: "Georgia"
+    toc: true
+    documentclass: scrbook
+    geometry: paperwidth=6in,paperheight=9in
+    standalone: true
+
+  epub:
+    cover-image: _resources/book/Redlight-Kindle_Book_Cover_6x9.png
+  

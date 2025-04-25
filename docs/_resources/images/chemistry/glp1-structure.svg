@@ -1,0 +1,107 @@
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background grid for amino acid positioning -->
+    <defs>
+        <marker id="arrow" viewBox="0 0 10 10" refX="5" refY="5"
+            markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="black"/>
+        </marker>
+    </defs>
+
+    <!-- First row of amino acids -->
+    <g transform="translate(50,50)">
+        <!-- His-7 -->
+        <circle cx="50" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="35" y="55" font-family="Arial" font-size="14">His-7</text>
+        
+        <!-- Ala-8 -->
+        <circle cx="150" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="135" y="55" font-family="Arial" font-size="14">Ala-8</text>
+        
+        <!-- Glu-9 -->
+        <circle cx="250" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="235" y="55" font-family="Arial" font-size="14">Glu-9</text>
+        
+        <!-- Gly-10 -->
+        <circle cx="350" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="330" y="55" font-family="Arial" font-size="14">Gly-10</text>
+        
+        <!-- Thr-11 -->
+        <circle cx="450" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="435" y="55" font-family="Arial" font-size="14">Thr-11</text>
+        
+        <!-- Connecting lines first row -->
+        <line x1="75" y1="50" x2="125" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="175" y1="50" x2="225" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="275" y1="50" x2="325" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="375" y1="50" x2="425" y2="50" stroke="black" stroke-width="2"/>
+    </g>
+
+    <!-- Second row -->
+    <g transform="translate(50,150)">
+        <!-- Phe-12 -->
+        <circle cx="50" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="35" y="55" font-family="Arial" font-size="14">Phe-12</text>
+        
+        <!-- Thr-13 -->
+        <circle cx="150" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="135" y="55" font-family="Arial" font-size="14">Thr-13</text>
+        
+        <!-- Ser-14 -->
+        <circle cx="250" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="235" y="55" font-family="Arial" font-size="14">Ser-14</text>
+        
+        <!-- Asp-15 -->
+        <circle cx="350" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="330" y="55" font-family="Arial" font-size="14">Asp-15</text>
+        
+        <!-- Val-16 -->
+        <circle cx="450" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="435" y="55" font-family="Arial" font-size="14">Val-16</text>
+        
+        <!-- Connecting lines second row -->
+        <line x1="75" y1="50" x2="125" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="175" y1="50" x2="225" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="275" y1="50" x2="325" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="375" y1="50" x2="425" y2="50" stroke="black" stroke-width="2"/>
+    </g>
+
+    <!-- Third row -->
+    <g transform="translate(50,250)">
+        <!-- Ser-17 -->
+        <circle cx="50" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="35" y="55" font-family="Arial" font-size="14">Ser-17</text>
+        
+        <!-- Ser-18 -->
+        <circle cx="150" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="135" y="55" font-family="Arial" font-size="14">Ser-18</text>
+        
+        <!-- Tyr-19 -->
+        <circle cx="250" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="235" y="55" font-family="Arial" font-size="14">Tyr-19</text>
+        
+        <!-- Leu-20 -->
+        <circle cx="350" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="335" y="55" font-family="Arial" font-size="14">Leu-20</text>
+        
+        <!-- Glu-21 -->
+        <circle cx="450" cy="50" r="25" fill="none" stroke="black" stroke-width="2"/>
+        <text x="435" y="55" font-family="Arial" font-size="14">Glu-21</text>
+        
+        <!-- Connecting lines third row -->
+        <line x1="75" y1="50" x2="125" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="175" y1="50" x2="225" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="275" y1="50" x2="325" y2="50" stroke="black" stroke-width="2"/>
+        <line x1="375" y1="50" x2="425" y2="50" stroke="black" stroke-width="2"/>
+    </g>
+
+    <!-- Vertical connections between rows -->
+    <line x1="500" y1="100" x2="500" y2="200" stroke="black" stroke-width="2"/>
+    <line x1="500" y1="250" x2="500" y2="300" stroke="black" stroke-width="2"/>
+
+    <!-- Terminal labels -->
+    <text x="20" y="30" font-family="Arial" font-size="16" font-weight="bold">N-terminus</text>
+    <text x="460" y="380" font-family="Arial" font-size="16" font-weight="bold">C-terminus</text>
+
+    <!-- Title -->
+    <text x="50" y="450" font-family="Arial" font-size="18" font-weight="bold">GLP-1 (7-37) Amino Acid Sequence</text>
+</svg>
