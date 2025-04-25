@@ -3,7 +3,6 @@ title: "The Technology Landscape"
 subtitle: "Advanced Imaging Systems and Red Light Delivery Devices"
 ---
 
-# The Technology Landscape: Advanced Imaging Systems and Red Light Delivery Devices
 
 The effectiveness of fundus-guided red light therapy depends significantly on the quality and capabilities of the technology employed. This chapter explores the current landscape of both retinal imaging systems and photobiomodulation devices, providing practitioners with the knowledge needed to make informed technology decisions.
 
