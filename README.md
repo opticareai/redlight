@@ -4,7 +4,7 @@ This is a book, generated using the [Quarto](https://quarto.org/) publishing sys
 
 View the book here:
 
-[https://opticareai.github.io/peptide-book/](https://opticareai.github.io/peptide-book/)
+[https://opticareai.github.io/redlight/](https://opticareai.github.io/redlight/)
 
 
 ## Install
@@ -52,27 +52,4 @@ The key organization file is `_quarto.yml`.  Modify that to change order or add 
 
 ## Description
 
-"Peptide Miracle" presents a bold vision of personalized health optimization through peptide therapy and retinal imaging. The author, positioned as a pioneering scientific researcher, argues that proteins are fundamental to biological processes and that custom-designed peptides offer revolutionary potential for health enhancement.
-
-The book's central thesis connects two main elements: peptide therapy and fundus (retinal) imaging diagnostics. The author claims to have developed novel manufacturing methods for custom peptides at scale, while proposing that retinal imaging can determine which peptides would be most beneficial for each individual.
-
-Written in the engaging style of popular health influencers, the 40,000-word text targets health enthusiasts, biohackers, and those interested in cutting-edge wellness optimization. The tone is consistently optimistic and enthusiastic about scientific advancement, positioning peptide therapy as a breakthrough in personalized medicine.
-
-The content merges legitimate science about proteins' biological importance with more speculative claims about peptide customization and retinal diagnostics. The author draws heavily on references to retinal imaging research to support claims about peptide efficacy, suggesting a novel diagnostic approach to personalized peptide therapy.
-
-The book follows the familiar format of health optimization literature, likely including:
-- Scientific background on proteins and peptides
-- Explanation of the author's breakthrough manufacturing process
-- Description of retinal imaging diagnostic methods
-- Protocols for peptide therapy implementation
-- Case studies and success stories
-- Future possibilities for personalized medicine
-
-The target audience aligns with readers of biohacking and functional medicine authors, appealing to those who:
-- Seek cutting-edge health optimization methods
-- Are comfortable with experimental treatments
-- Have interest in personalized medicine
-- Value scientific innovation in healthcare
-- Are willing to try novel diagnostic approaches
-
-The book positions itself within the growing field of personalized medicine and biohacking, while claiming to offer a unique synthesis of peptide therapy and diagnostic imaging technology. The author's credentials as a researcher are emphasized to establish authority for the proposed breakthrough methods.
+Discover the remarkable healing potential of red light therapy through the window of the eye. This groundbreaking guide explores how advanced fundus imaging can reveal the body's response to photobiomodulation, allowing practitioners to develop precisely targeted protocols for optimal results. From reducing inflammation and accelerating healing to enhancing mitochondrial function and cognitive performance, learn how this non-invasive therapy can transform wellness care through personalized, data-driven approaches. Whether you're a healthcare professional looking to expand your practice or someone interested in cutting-edge wellness technologies, this comprehensive resource bridges the gap between ancient light-based healing traditions and modern precision medicine, offering a roadmap to harnessing the power of light for transformative health outcomes.
