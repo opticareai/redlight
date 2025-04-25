@@ -1,9 +1,14 @@
 ---
-title: "The Eye as a Window"
-subtitle: "Retinal Imaging and Health Assessment"
+title: "The Science of Photobiomodulation"
+subtitle: "How Red Light Therapy Works at the Cellular Level"
 ---
 
+Red light therapy, also known as photobiomodulation (PBM), represents a fascinating intersection of physics, biology, and medicine. This chapter delves into the fundamental mechanisms through which specific wavelengths of red and near-infrared light influence cellular function and promote healing throughout the body.
 
+At its core, PBM works primarily through interaction with cytochrome c oxidase, a photoreceptive enzyme in the mitochondrial respiratory chain. When specific wavelengths (typically 630-670nm and 810-850nm) reach this enzyme, they enhance ATP production—the cellular energy currency essential for repair and regeneration. This process also triggers beneficial secondary effects, including reduced oxidative stress, modulated inflammation, and improved intercellular signaling.
+
+We'll examine the "biphasic dose response" principle that governs effective treatment: how too little energy yields insufficient effects while too much can inhibit beneficial responses. Understanding this delicate balance is crucial for developing optimized protocols based on client-specific needs identified through retinal imaging.
+The chapter also explores how light therapy influences genetic expression, activating genes associated with tissue repair and cellular protection while downregulating those involved in inflammation and oxidative damage. By understanding these molecular pathways, practitioners can better predict therapeutic responses and tailor interventions to address specific conditions revealed through comprehensive retinal assessment.
 
 ## The Retina: A Unique Microcosm of the Body
 
